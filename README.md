@@ -1,6 +1,9 @@
 # End-to-End Data Pipeline Using Azure and Databricks
 This project demonstrates a complete end-to-end data pipeline utilizing Microsoft Azure services and Databricks, built to process and transform data from an on-premise AdventureWorks sample database to Azure Data Lake Storage Gen2.
 
+![image](https://github.com/user-attachments/assets/9f9f1cf9-d8b4-4666-8d2d-047ca0f6304d)
+
+
 ## Project Overview
 Using a medallion architecture (Bronze, Silver, and Gold), this pipeline performs secure data transfers, transformations, and query operations, making the data ready for insightful reporting.
 
